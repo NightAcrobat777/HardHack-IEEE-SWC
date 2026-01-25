@@ -32,7 +32,7 @@ This approach minimizes energy waste while maintaining comfortable living condit
 
 ## Circuit Diagram:
 
-![Circuit Diagram](images/Scheme-it.png)
+![Circuit Diagram](images/Scheme-it.svg)
 
 ## Pictures:
 
